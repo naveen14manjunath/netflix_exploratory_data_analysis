@@ -9,18 +9,20 @@ You have been supplied with the dataset netflix_data.csv, along with the followi
 
 The data
 netflix_data.csv
-Column	      Description
-show_id	      The ID of the show
-type	        Type of show
-title	        Title of the show
-director	    Director of the show
-cast	        Cast of the show
-country	      Country of origin
-date_added	  Date added to Netflix
-release_year	Year of Netflix release
-duration	    Duration of the show in minutes
-description  	Description of the show
-genre	        Show genre
+></p>
+  <p>─────────────────────|──────────────────────────────────────────</p>
+  <p><code>show_id</code>      | The ID of the show                      </p>
+  <p><code>type</code>         | Type of show (Movie/TV Show)            </p>
+  <p><code>title</code>        | Title of the show                       </p>
+  <p><code>director</code>     | Director of the show                    </p>
+  <p><code>cast</code>         | Cast members of the show                </p>
+  <p><code>country</code>      | Country of origin                       </p>
+  <p><code>date_added</code>   | Date added to Netflix                   </p>
+  <p><code>release_year</code> | Year the show was released              </p>
+  <p><code>duration</code>     | Duration in minutes/seasons             </p>
+  <p><code>description</code>  | Synopsis/description of the show        </p>
+  <p><code>genre</code>        | Primary genre classification            </p>
+</div>
 
 Answer
 What was the most frequent movie duration in the 1990s? Save an approximate answer as an integer called duration (use 1990 as the decade's start year).
